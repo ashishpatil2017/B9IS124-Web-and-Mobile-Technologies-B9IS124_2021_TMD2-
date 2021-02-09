@@ -1,0 +1,7 @@
+git clone filename.git - for cloning repository 
+git status - to check which all files do we need to commit 
+git add - to add new local file to commit 
+git config --global user.email "ashishpatil199199@gmail.com" - for login 
+git config --global user.name "Ashish Patil" - for login 
+git commit -m "Commiting local changes" - for commit 
+git push - to push to github repository
